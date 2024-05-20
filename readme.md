@@ -1,4 +1,8 @@
-# ink-testing-library ![test](https://github.com/vadimdemedes/ink-testing-library/workflows/test/badge.svg)
+# ink-testing-library ![test](https://github.com/levelbreaded/ink-testing-library/workflows/test/badge.svg)
+
+Custom fork of [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) with minor enhancements.
+
+**Original README below**
 
 > Utilities for testing [Ink](https://github.com/vadimdemedes/ink) apps
 
