@@ -1,5 +1,5 @@
 {
-	"name": "ink-testing-library",
+	"name": "@levelbreaded/ink-testing-library",
 	"version": "3.1.0",
 	"description": "Utilities for testing Ink apps",
 	"license": "MIT",
